@@ -1,0 +1,8 @@
+{
+  "availability-zones:account=613477150601:region=ap-southeast-1": [
+    "ap-southeast-1a",
+    "ap-southeast-1b",
+    "ap-southeast-1c"
+  ],
+  "ami:account=613477150601:filters.image-type.0=machine:filters.name.0=nginx-server:filters.state.0=available:region=ap-southeast-1": "ami-0fecd1e21eb4b2e6b"
+}
